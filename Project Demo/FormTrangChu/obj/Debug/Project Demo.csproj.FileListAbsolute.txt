@@ -1,0 +1,66 @@
+F:\Learning C#\Project Demo\Project Demo\bin\Debug\Project Demo.exe.config
+F:\Learning C#\Project Demo\Project Demo\bin\Debug\Project Demo.exe
+F:\Learning C#\Project Demo\Project Demo\bin\Debug\Project Demo.pdb
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project Demo.csproj.AssemblyReference.cache
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project_Demo.Form1.resources
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project_Demo.Properties.Resources.resources
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project Demo.csproj.GenerateResource.cache
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project Demo.csproj.CoreCompileInputs.cache
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project Demo.exe
+F:\Learning C#\Project Demo\Project Demo\obj\Debug\Project Demo.pdb
+F:\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe.config
+F:\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe
+F:\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.pdb
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.AssemblyReference.cache
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form1.resources
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Properties.Resources.resources
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.GenerateResource.cache
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CoreCompileInputs.cache
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.exe
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.pdb
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form2.resources
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.FormGiaoDien.resources
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.SuggestedBindingRedirects.cache
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form4.resources
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form5.resources
+F:\Learning C#\Project Demo\FormTrangChu\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CopyComplete
+F:\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form6.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe.config
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.pdb
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form1.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form2.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.FormGiaoDien.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Form4.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.exe
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.pdb
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.RoleAdmin.resources
+C:\Users\Administrator\Desktop\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.RoleUser.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe.config
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.exe
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Project Demo.pdb
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.FormGiaoDien.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.exe
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project Demo.pdb
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.frmTrangChu.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.frmDangKi.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.frmStaff.resources
+C:\Users\Administrator\Desktop\đồ án Winform\Learning C#\Learning C#\Project Demo\FormTrangChu\obj\Debug\Project_Demo.frmAdmin.resources
